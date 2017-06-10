@@ -1,2 +1,4 @@
 # hello-world
-First repo
+First repository very excited!
+
+Expericing git for the very first time.
